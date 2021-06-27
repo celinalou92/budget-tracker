@@ -3,7 +3,7 @@
 ## Description 
 An app that can be used to track you daily budget.
 
-![Budget Tracker](budget-tacker_screengrab_.png)
+![Budget Tracker](budget-tracker_screengrab_.png)
 
 ## Tables of Contents
 * [Installation](#installation)

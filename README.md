@@ -1,10 +1,31 @@
-# Budget Tracker Starter Code
+# Budget Tracker
 
-Offline Functionality
-You’ll need to use IndexedDB to add offline functionality. Review Module 18: NoSQL, Lesson 4: Add Offline Persistence with IndexedDB as a refresher on how to add this to your application.
+## Description 
+An app that can be used to track you daily budget.
 
-You’ll also need to add a service worker to your application. Review Module 19: Progressive Web Applications (PWA), Lesson 4: Using Service Workers as a refresher on how to add this to your application.
+![Budget Tracker](budget-tacker_screengrab_.png)
 
-You should add your idb.js file to the public/js/ directory of your application.
+## Tables of Contents
+* [Installation](#installation)
+* [Deployed App](#deployed-app)
+* [Usage](#usage)
+* [Questions](#questions)
 
-You should add your service worker to the root of the public/ directory of your application.
+## Installation 
+* npm init --y
+* npm install 
+
+## Deployed App
+https://budget-tracker-20jun21.herokuapp.com/
+
+## Usage
+An app that can be used to track you daily budget that can be used offline and downloaded as a PWA on to your mobile device via your web browser 
+
+## Contributing
+N/A
+
+
+## Questions
+For any questions please reach out to 
+github: [celinalou92](https://github.com/celinalou92)
+email: celinalouissaint@gmail.com

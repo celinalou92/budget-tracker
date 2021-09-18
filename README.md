@@ -1,7 +1,7 @@
 # Budget Tracker
 
 ## Description 
-An app that can be used to track you daily budget.
+An app that can be used to track your daily budget.
 
 ![Budget Tracker](budget-tracker_screengrab_.png)
 
